@@ -18,4 +18,4 @@ public class Colculator {
     private float makeOperation (float x, float y, Operation o) {
         return o.operate(x,y);
     }
-}
+}// чтото изменила
