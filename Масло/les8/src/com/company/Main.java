@@ -69,5 +69,5 @@ public class Main {
         System.out.println(cal.multiply(6,6));
         System.out.println(cal.plus(5,4));
 
-    }
+    }/////////// всякие изменения
 }
